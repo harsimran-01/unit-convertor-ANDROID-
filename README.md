@@ -15,5 +15,4 @@ This is a simple **Unit Converter** Android application built using **Jetpack Co
 - **Material3 UI Components**
 - **Android Studio**
 
-## 📸 Screenshots
 
